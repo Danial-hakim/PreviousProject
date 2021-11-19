@@ -1,0 +1,115 @@
+﻿  Alien.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Inventory.h(19,70): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Alien.cpp(169,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Alien.cpp(179,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Alien.cpp(191,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Alien.cpp(190,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Alien.cpp(193,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  AlienHearing.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Inventory.h(19,70): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Cell.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Cell.cpp(15,25): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Cell.cpp(16,25): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Cell.cpp(56,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Cell.cpp(56,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CollisionHandler.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Inventory.h(19,70): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\CollisionHandler.cpp(5,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\CollisionHandler.cpp(6,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Grid.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Grid.cpp(285,63): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Book.cpp
+  Game.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Inventory.h(19,70): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Game.cpp(53,41): warning C4244: 'argument': conversion from 'sf::Int64' to 'double', possible loss of data
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Game.cpp(117,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Inventory.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Inventory.h(19,70): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Inventory.cpp(209,15): warning C4101: 'e': unreferenced local variable
+  Item.cpp
+  ItemStorage.cpp
+  main.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Inventory.h(19,70): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MapItems.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Inventory.h(19,70): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Maths.cpp
+  NoiseMaker.cpp
+  Player.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Inventory.h(19,70): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Player.cpp(96,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RememberedCodes.cpp
+  Scanner.cpp
+  SmokeBomb.cpp
+  Sound.cpp
+  SoundManager.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\Inventory.h(19,70): warning C4244: 'initializing': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\SoundManager.cpp(58,4): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating Code...
+  Compiling...
+  ThrowableItem.cpp
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\ThrowableItem.cpp(12,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\ThrowableItem.cpp(13,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\ThrowableItem.cpp(27,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dan\Desktop\PreviousProject\Project_01\Project_01\ThrowableItem.cpp(27,38): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Generating Code...
+  Project_01.vcxproj -> C:\Users\Dan\Desktop\PreviousProject\Project_01\Debug\Project_01.exe

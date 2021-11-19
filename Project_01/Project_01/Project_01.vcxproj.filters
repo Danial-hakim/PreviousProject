@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Items &amp; Inventory">
+      <UniqueIdentifier>{f4b9cabd-6d1d-4510-8eb8-57a32814635c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Items &amp; Inventory">
+      <UniqueIdentifier>{6c6c6b42-a7da-411a-b6ce-a66c73c7ca7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Alien">
+      <UniqueIdentifier>{49fe1349-4bff-4fba-bd69-8bdad7145cb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Player">
+      <UniqueIdentifier>{f53c1a38-c825-4ee6-9a3a-a65587c38ba8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Alien">
+      <UniqueIdentifier>{9720dbeb-f028-4b5c-9227-c43ba2ddf3c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Player">
+      <UniqueIdentifier>{ef326fc9-6604-43e8-a75d-a6b3f2616de8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sounds">
+      <UniqueIdentifier>{54d89758-38a2-4928-8946-f3fd673a71b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sounds">
+      <UniqueIdentifier>{e1ceb4f7-96ca-43a9-bbd0-ee76bbcd49ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Map/Grid">
+      <UniqueIdentifier>{62684da7-232c-4e81-985e-e79a59f2f4f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Map/Grid">
+      <UniqueIdentifier>{a64f8d39-3c79-4269-9c66-63a8f8d4780f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Items &amp; Inventory\Items">
+      <UniqueIdentifier>{11bcdb83-635e-40fd-9d71-f9cee68d114e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Items &amp; Inventory\Item Storages">
+      <UniqueIdentifier>{0a2ab84f-5dc0-4427-a3fb-d0a3f477356e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items &amp; Inventory\Item Storages">
+      <UniqueIdentifier>{24758ba8-4da6-49eb-b1da-87a8a74b4181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items &amp; Inventory\Items">
+      <UniqueIdentifier>{e448d337-4a9a-45cd-96b7-622f3a22696a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="RememberedCodes.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="AlienHearing.cpp">
+      <Filter>Source Files\Alien</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source Files\Sounds</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Source Files\Sounds</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Source Files\Map/Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell.cpp">
+      <Filter>Source Files\Map/Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="Book.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="NoiseMaker.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Scanner.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="SmokeBomb.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ThrowableItem.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemStorage.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClCompile>
+    <ClCompile Include="MapItems.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\Items &amp; Inventory\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Alien.cpp">
+      <Filter>Source Files\Alien</Filter>
+    </ClCompile>
+    <ClCompile Include="Maths.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenSize.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="RememberedCodes.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="AlienHearing.h">
+      <Filter>Header Files\Alien</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Header Files\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundLevels.h">
+      <Filter>Header Files\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header Files\Sounds</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Header Files\Map/Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>Header Files\Map/Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="Book.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="NoiseMaker.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Scanner.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ThrowableItem.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="SmokeBomb.h">
+      <Filter>Header Files\Items &amp; Inventory\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemStorage.h">
+      <Filter>Header Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClInclude>
+    <ClInclude Include="MapItems.h">
+      <Filter>Header Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClInclude>
+    <ClInclude Include="ScannerObserver.h">
+      <Filter>Header Files\Items &amp; Inventory\Item Storages</Filter>
+    </ClInclude>
+    <ClInclude Include="Alien.h">
+      <Filter>Header Files\Alien</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyc2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Maths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
